@@ -46,55 +46,55 @@
     <Reference Include="System.Xml" />
     <Reference Include="TXBarcode, Version=31.0.700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXBarcode.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXBarcode.dll</HintPath>
     </Reference>
     <Reference Include="TXBarcode.Windows.Forms, Version=31.0.700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXBarcode.Windows.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXBarcode.Windows.Forms.dll</HintPath>
     </Reference>
     <Reference Include="TXDocumentServer, Version=31.0.1700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDocumentServer.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXDocumentServer.dll</HintPath>
     </Reference>
     <Reference Include="TXDocumentServer.Windows.Forms, Version=31.0.1400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDocumentServer.Windows.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXDocumentServer.Windows.Forms.dll</HintPath>
     </Reference>
     <Reference Include="TXDocumentServer.Windows.Forms.Design, Version=31.0.111.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDocumentServer.Windows.Forms.Design.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXDocumentServer.Windows.Forms.Design.dll</HintPath>
     </Reference>
     <Reference Include="TXDrawing, Version=31.0.700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDrawing.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXDrawing.dll</HintPath>
     </Reference>
     <Reference Include="TXDrawing.Windows.Forms, Version=31.0.700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXDrawing.Windows.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXDrawing.Windows.Forms.dll</HintPath>
     </Reference>
     <Reference Include="TXImageProvider, Version=31.0.500.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXImageProvider.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXImageProvider.dll</HintPath>
     </Reference>
     <Reference Include="txpdf, Version=31.0.1800.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\txpdf.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\txpdf.dll</HintPath>
     </Reference>
     <Reference Include="TXTextControl, Version=31.0.2400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXTextControl.dll</HintPath>
     </Reference>
     <Reference Include="TXTextControl.Server, Version=31.0.1600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.Server.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXTextControl.Server.dll</HintPath>
     </Reference>
     <Reference Include="TXTextControl.Windows.Forms, Version=31.0.1600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.dll</HintPath>
     </Reference>
     <Reference Include="TXTextControl.Windows.Forms.Design, Version=31.0.115.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 30.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.Design.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 31.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.Design.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
